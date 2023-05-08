@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Rebecca Hirst
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Rebecca
+last_name: Hirst
 
 # Status emoji
 status:
@@ -14,33 +14,33 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Cognitive Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Open Science Tools
+    url: https://opensciencetools.org/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Multisensory Perception
+  - Methods Development
+  - Open Science
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Psychology
+      institution: University of Nottingham
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: MSc Psychology Research Methods
+      institution: University of Nottingham
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: BSc in Psychology and Cognitive Neuroscience
+      institution: University of Nottingham
       year: 2008
 
 # Social/Academic Networking
@@ -53,7 +53,7 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/HirstRJ
     label: Follow me on Twitter
     display:
       header: true
@@ -80,5 +80,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Rebecca Hirst is the Chief Science Officer at Open Science Tools (creators of PsychoPy and Pavlovia). Her research interests include multisensory perception across the lifespan.
 {style="text-align: justify;"}
